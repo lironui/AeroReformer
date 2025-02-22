@@ -1,7 +1,3 @@
----
-license: mit
----
-
 # **AeroReformer: Aerial Referring Transformer for UAV-based Referring Image Segmentation**
 
 🚀 **AeroReformer** is a novel framework for **UAV-based referring image segmentation (RIS)**, designed to address the unique challenges of aerial imagery, such as complex spatial scales, occlusions, and varying object orientations.  
