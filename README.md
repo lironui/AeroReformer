@@ -1,5 +1,7 @@
 # **AeroReformer: Aerial Referring Transformer for UAV-Based Referring Image Segmentation**  
 
+The code is being cleaned and the datasets will be available soon! Keep toned!
+
 🚀 **AeroReformer** is a novel **vision-language framework** for **UAV-based referring image segmentation (UAV-RIS)**, designed to tackle the unique challenges of aerial imagery, such as complex spatial scales, occlusions, and diverse object orientations.  
 
 Our approach integrates a **Vision-Language Cross-Attention Module (VLCAM)** for enhanced multimodal understanding and a **Rotation-Aware Multi-Scale Fusion (RAMSF) decoder** to improve segmentation accuracy in aerial scenes.  
