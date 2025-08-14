@@ -4,11 +4,6 @@
 This repository is the official implementation for *"AeroReformer: Aerial Referring Transformer for UAV-Based Referring Image Segmentation"* ([paper](https://arxiv.org/pdf/2502.16680)).
 
 
----
-
-要我帮你把这个 **官方实现声明** 也加到 UAVid-RIS 和 VDD-RIS 的 Hugging Face 数据集卡片顶部吗？这样两边保持一致的官方说明。
-
-
 🚀 **AeroReformer** is a novel **vision-language framework** for **UAV-based referring image segmentation (UAV-RIS)**, designed to tackle the unique challenges of aerial imagery, such as complex spatial scales, occlusions, and diverse object orientations.  
 
 Our approach integrates a **Vision-Language Cross-Attention Module (VLCAM)** for enhanced multimodal understanding and a **Rotation-Aware Multi-Scale Fusion (RAMSF) decoder** to improve segmentation accuracy in aerial scenes.  
