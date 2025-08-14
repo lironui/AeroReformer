@@ -8,6 +8,8 @@ This repository is the official implementation for *"AeroReformer: Aerial Referr
 
 Our approach integrates a **Vision-Language Cross-Attention Module (VLCAM)** for enhanced multimodal understanding and a **Rotation-Aware Multi-Scale Fusion (RAMSF) decoder** to improve segmentation accuracy in aerial scenes.  
 
+![AeroReformer Overview](https://github.com/lironui/AeroReformer/blob/main/AeroReformer.PNG)
+
 ---
 
 ## **📝 Paper Status**  
