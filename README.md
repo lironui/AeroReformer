@@ -135,6 +135,10 @@ python tool/image_split_vdd.py train
 python tool/image_split_vdd.py val
 python tool/image_split_vdd.py test
 ```
+
+#### 5. Demo Images
+
+You can also get access to the UAV images we captured at the University of Warwick in the demo subfolder of this repository.
         
 ## Training
 
