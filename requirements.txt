@@ -1,0 +1,26 @@
+filelock==3.18.0
+ftfy==6.3.1
+h5py==3.12.1
+mmcv-full==1.7.2
+mmsegmentation==0.17.0
+opencv-python==4.11.0.86
+opencv-python-headless==4.11.0.86
+pycocotools==2.0.8
+regex==2024.11.6
+requests
+scikit-image==0.25.1
+scipy==1.15.1
+timm==0.6.13
+tokenizers==0.21.1
+tqdm
+tqdm-multiprocess==0.0.11
+
+
+CUDA_VISIBLE_DEVICES=0 torchrun --nproc_per_node=1 --master_port=12345 train.py --dataset vdd_ris --model_id AeroReformer --epochs 10 --img_size 480 --refer_data_root ./data/VDD_RIS/ --mha 4-4-4-4 --output-dir ./checkpoints/VDD_RIS
+
+
+python test.py --swin_type base --dataset vdd_ris --resume ./checkpoints/VDD_RIS/model_best_AeroReformer.pth --model_id AeroReformer --split test --workers 4 --window12 --img_size 480 --refer_data_root ./data/VDD_RIS/ --mha 4-4-4-4Of course. Here are the updated "Training" and "Testing" sections with the added commands for the UAVid-RIS dataset.
+
+
+
+
