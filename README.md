@@ -1,7 +1,7 @@
 
-# [**AeroReformer: Aerial Referring Transformer for UAV-Based Referring Image Segmentation**](https://arxiv.org/pdf/2502.16680)
+# [**AeroReformer: Aerial Referring Transformer for UAV-Based Referring Image Segmentation**](https://www.sciencedirect.com/science/article/pii/S1569843225004649)
 
-This repository is the official implementation for *"AeroReformer: Aerial Referring Transformer for UAV-Based Referring Image Segmentation"* ([paper](https://arxiv.org/pdf/2502.16680)).
+This repository is the official implementation for *"AeroReformer: Aerial Referring Transformer for UAV-Based Referring Image Segmentation"* ([paper](https://www.sciencedirect.com/science/article/pii/S1569843225004649)).
 
 
 🚀 **AeroReformer** is a novel **vision-language framework** for **UAV-based referring image segmentation (UAV-RIS)**, designed to tackle the unique challenges of aerial imagery, such as complex spatial scales, occlusions, and diverse object orientations.  
